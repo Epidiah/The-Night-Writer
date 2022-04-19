@@ -1,7 +1,7 @@
 " Intergalaxian project-specific .vimrc
 
 " set somewhat thematically appropriate color scheme
-colorscheme gruvbox8
+colorscheme challenger_deep
 
 " set local spellfile
 set spellfile=Intergalaxian.utf-8.add
@@ -12,7 +12,8 @@ inoreabbrev <buffer> jr Jim Rockford
 " match parts that need a little filling in
 augroup matchinggroup
   autocmd!
-  autocmd FileType markdown match Todo /\({.\{-}}\)/
+  autocmd FileType * match none
+  autocmd FileType markdown  match  Todo /\({.\{-}}\)/
 augroup END
 
 " Local Wiki
@@ -20,6 +21,9 @@ let local_wiki = {}
 let local_wiki.path = expand('%:p:h') . '/vimwiki/'
 let local_wiki.name = "Intergalaxian"
 let local_wiki.auto_toc = 1
+let local_wiki.auto_export = 1
 let g:vimwiki_list = insert(g:vimwiki_list, local_wiki)
 
-
+" save Abolishments here
+let g:abolish_save_file=".local_vimrc"
+Abolish intergala{x,z}ian{,s} Intergala{x}ian{}

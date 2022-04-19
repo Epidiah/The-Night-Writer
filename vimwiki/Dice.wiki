@@ -1,0 +1,13 @@
+= How We Roll =
+
+We're going to use d4, d6, d8, d10, and d12.
+
+You will have a target number to reach, usually between 1 and 20. You do not have to reach it with a single roll. Everytime you roll, you build a toiling total. When your toiling total _exceeds_ your target number, you succeed. The number you succeed by might be relavent.
+
+|     Roll      | Result                                              |
+|:-------------:|-----------------------------------------------------|
+|       1       | Setback! ±1 die size next time you roll this die.   |
+|   2 until…    | Add result to toiling total.                        |
+| …maximum roll | Automatically get exactly what you need to succeed. |
+
+
