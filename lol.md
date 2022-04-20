@@ -8,7 +8,8 @@ _____|_|\__|\__,_|_|  _|\__, | \___/ _|   _____|_|\___|____/
 Late 70s there was line of toys Space Intergalaxians
 Earlier 80s a comic book gets the license
 Mid 80s a short run Saturday morning cartoon
-Late 90s edgy comic version
+Late 90s edgy comic version "I"
+00s pastel remake that made certain folks uncomfortable in the good way
 
 ```
              ___      ___                        
@@ -64,6 +65,7 @@ Put one in reserve to give to another player.
 
 ### First Generation Intergalaxian Toys
 
+    - Wacky Helmets
     - Right arm
         - Weapons and tools
     - Left arm
@@ -75,7 +77,7 @@ Put one in reserve to give to another player.
     - Lower body
         - Locomotive
         - Scorpion Tails
-    - Heart
+    - Heart or Heraldry
         - Values, Virtues, Foible
     - Brain
         - Skills, knowledge, sorcery, psionic
@@ -99,6 +101,12 @@ Some of these Interchangeables have storied histories and almost personalities o
     - Find old lost Space Intergalaxians.
     - The classic Seven Samurai/Magnificent Seven/Battle Beyond the Stars situation
 
+## Fighting the Lackawanna
+
+     - Hunted by other Intergalaxians for your parts
+     - Code of Honor compeling you to mete out justice
+     - Loneliness
+
 ## Things to Worry About (and Design Away From)
 
 People are probably going to want to hoard Interchangeables.
@@ -106,12 +114,6 @@ People are probably going to want to hoard Interchangeables.
 ## Combat Rules
 
 Focus on avoiding injury and harm instead of inflicting.
-
-## Fighting the Lackawanna
-
-     - Hunted by other Intergalaxians for your parts
-     - Code of Honor compeling you to mete out justice
-     - Loneliness
 
 # Resolution
 
@@ -128,3 +130,11 @@ Roll | Result
 6    | Something over-the-top happens, but you fully succeed regardless of points needed. Something wild happens!
 
 For all dice, 1 is the same, and the highest number is a full success but over-the-top. So the larger the die, the more reliable you are.
+
+## Tedium
+
+Some tedium will be good. But we want the prep for it to be interesting and the final result memorable.
+
+# Playing Through the Eras
+
+Set it up so that folks can dial into the era of comic or cartoon they want to play in.
