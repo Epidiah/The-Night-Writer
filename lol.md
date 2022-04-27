@@ -47,7 +47,7 @@ Possible classes (like someone who hoards body interchangeables)
     - Interchangeable Scholar
     - Newly Hatched (from their Intergalaxian-torpedo)
     - The Retired Intergalaxian
-    - The Long Lonesome Intergalaxian
+    - The Lonesome Intergalaxian
 
 ## Things I Want
 
@@ -130,6 +130,9 @@ Roll | Result
 6    | Something over-the-top happens, but you fully succeed regardless of points needed. Something wild happens!
 
 For all dice, 1 is the same, and the highest number is a full success but over-the-top. So the larger the die, the more reliable you are.
+## Investigation Rules
+
+TBD.
 
 ## Tedium
 
@@ -138,3 +141,16 @@ Some tedium will be good. But we want the prep for it to be interesting and the 
 # Playing Through the Eras
 
 Set it up so that folks can dial into the era of comic or cartoon they want to play in.
+
+Set schisms between various canon and popular head-canons. Bring fandom into the mix.
+
+Dials for various levels of cartoonish to grim violence.
+
+# GMing
+
+GM role assigned by interchangeable?
+
+Borrowed from Bullwinkle & Rocky: The narrator shifts back and forth between opposing sides. The narrator is emboldened to champion their side in the struggle.
+
+Possibly concurrent stories in different eras of the IP.
+

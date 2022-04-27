@@ -13,13 +13,30 @@
 
 = Contents =
     - [[#History of the Intergalaxians|History of the Intergalaxians]]
+    - [[#Previously On|Previously On]]
     - [[#Rules|Rules]]
+    - [[#Original Toy Line|Original Toy Line]]
 
 = History of the Intergalaxians = 
-    - *Late 70s* Launch of the Intergalaxian toy line
-    - *Early 80s* First comic book series
-    - *Late Early 80s* A short-lived Saturday morning cartoon
-    - *Late 90s Edgy* second comic book series
+    - *Late 70s* launch of the Intergalaxian toy line
+    - *Early 80s* first comic book series
+    - *Late Early 80s* a short-lived Saturday morning cartoon
+    - *Late 90s* edgy second comic book series
+    - *Mid 00s* pastel cartoon reboot that offends the delicate sensibilities of regressive "fans"
+    - *Early 20s* the first Intergalaxian tabletop role-playing game
+
+= Previously On =
+    - [X] An imaginary toy line about interstellar warriors that can swap their various parts
+    - [X] A desire to scratch that nostalgia itch in both setting and rules aesthetic
+    - [X] Build your Intergalaxians via a card drafting mechanism
+    - [X] Perhaps rolling dice to build up totals until you exceed a target number
+    - [X] Ready to abandon any of this
 
 = Rules =
     - [[Dice]]
+
+= Original Toy Line =
+
+6 action figures. 3 "good" ones and 3 "evil" ones. 2 vehicles. 2 playsets.
+
+
