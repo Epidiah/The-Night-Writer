@@ -30,11 +30,11 @@ You're a Space Intergalaxian, an ageless star knight, lost in a cosmos that has 
 
 You've recently found one another, and an ancient nemesis.
 
-Make characters by assembling the parts you have—deck building.
+Make characters by assembling the parts you have—deck building. Maybe?
 
 Each Intergalaxian looks drastically different from any other.
 
-The interchangeables weren't manufactured, they didn't come off of an assembly line. Some artisans had to carefully craft them. They are great masterworks. They're ornate and each have a distinctive look, the signatures of their creators.
+This has changed: The interchangeables weren't manufactured, they didn't come off of an assembly line. Some artisans had to carefully craft them. They are great masterworks. They're ornate and each have a distinctive look, the signatures of their creators.
 
 ## Interesting Hooks
 
@@ -154,3 +154,6 @@ Borrowed from Bullwinkle & Rocky: The narrator shifts back and forth between opp
 
 Possibly concurrent stories in different eras of the IP.
 
+# Open Questions
+
+    * Do the Intergalaxians have a life before they gained the ability to dock interchangeables?
