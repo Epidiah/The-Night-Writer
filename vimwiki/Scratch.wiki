@@ -1,0 +1,48 @@
+= Inspiration Die =
+
+Roll this with every roll.
+
+    1. Use your *Head*
+    2. Use your *Left Arm*
+    3. Use your *Right Arm*
+    4. Use your *Torso*
+    5. Use your *Lower Body*
+    6. Wild? No, something else, Future Eppy. Fix it!
+
+= What Kind of Situations =
+
+    - Fighting
+    - Mysteries
+    - Fraught Encounter with Another Intergalaxian
+    - Defend Themselves in the Court (of Public Opinion or what have you)
+    - Show Off Special Abilities
+        - Feature a specific interchangeable part
+        - Especially a new one
+    - Chases
+    - Romances
+    - Knowing Lore
+
+= The Sum of Your Parts =
+
+What happens if all your interchangeables are the same color?
+Or, from the same set?
+Or, from the same creator?
+
+== Synergies ==
+- Differnt Colors
+    - Glow-in-the-Dark
+    - Hyper Color
+    - Clear plastic
+- Set based on named character
+- Themed sets, sets that clearly looked like they belonged together
+
+= Sample Mechanic =
+
+Roll to Escape
+
+2d6 + Lower Body
+
+6-  GM chooses one: You are captured, you accidentally reveal critical secrets...
+    Glow-in-the-Dark option: You escape, but your foe can follow
+7-9 You escape, but (choose one)... Lose a interchangeable, leave an ally in a difficult situation...
+10+ You escape, and (choose one) Your opponent is lost for days...

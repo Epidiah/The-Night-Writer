@@ -23,6 +23,7 @@
         - [[#Intergalaxian Body Composition#Left Arm|Left Arm]]
         - [[#Intergalaxian Body Composition#Lower Body|Lower Body]]
     - [[#Death and Dying|Death and Dying]]
+    - [[#Off the Cuff Ideas|Off the Cuff Ideas]]
 
 = History of the Intergalaxians = 
     - *Late 70s* launch of the Intergalaxian toy line
@@ -53,10 +54,10 @@ A giant assortment of random arms, torsos, heads, and lower bodies that can snap
 = Intergalaxian Body Composition =
 
 == Head ==
-Knowledge, history, experience.
+Knowledge, history, experience, perception
 
 == Torso ==
-Value, armor
+Values, armor
 
 == Right Arm ==
 Skills, prowess
@@ -70,3 +71,8 @@ Movement, should always lift with your legs, carry burdens
 = Death and Dying =
 
 Intergalaxians cannot die. But they can be blown apart, and their interchangeable parts can be scattered to the five corners of the universe.
+
+= Off the Cuff Ideas =
+
+- A d6 roll to determine which interchangeable part solves your problem.
+- [[Scratch]]
