@@ -2,11 +2,11 @@
 
 Roll this with every roll.
 
-    1. Use your *Head*
-    2. Use your *Left Arm*
-    3. Use your *Right Arm*
-    4. Use your *Torso*
-    5. Use your *Lower Body*
+    1. Use your *Head* (Data/Sensory Unit)
+    2. Use your *Left Arm* (Sinister Accuator)
+    3. Use your *Right Arm* (Dexter Accuator)
+    4. Use your *Torso* (Value Core) (Heart)
+    5. Use your *Lower Body* (Locomotor)
     6. Wild? No, something else, Future Eppy. Fix it!
 
 = What Kind of Situations =
@@ -46,3 +46,91 @@ Roll to Escape
     Glow-in-the-Dark option: You escape, but your foe can follow
 7-9 You escape, but (choose one)... Lose a interchangeable, leave an ally in a difficult situation...
 10+ You escape, and (choose one) Your opponent is lost for days...
+
+= Build Your Own Hit Chart =
+ 
+Sensor Unit, size 1
+Accuators, size 1 each
+Core, size 2
+Locomotors, size 2
+
+Typical humanoid build:
+
+1. Sensor Unit
+2. Sinister Accuator
+3. Dexter Accuator
+4. Core
+5. Core
+6. Locomotors
+7. Locomotors
+8. Wild
+
+An Atypical Build
+
+1. Sensor Unit
+2. Locomotor Alpha
+3. Locomotor Alpha
+4. Locomotor Beta
+5. Locomotor Beta
+6. Value Core
+7. Value Core
+8. Locomotor Gamma
+9. Locomotor Gamma
+10. Wild
+
+= Interchangeable Moves =
+
+Current distinction: 
+
+    - Dueling Moves are for facing other Intergalaxians and Intergalaxian-level threats.
+        - The result of a bad roll might mean the loss of that interchangeable?
+    - Action Moves are round by round play.
+        - Less likely than losing a interchangeable as above, but can be blown apart.
+    - Respite Moves are broad strokes, montage style play.
+
+
+== Sensor Unit ==
+
+=== Action Move ===
+Modeled on Read a Situation
+
+=== Dueling Move ===
+
+=== Respite Move ===
+Modeled on the Discovery Phase? Let's you spend time making up facts about the world and its history.
+
+== Sinister Actuator ==
+
+=== Action Move ===
+?
+
+=== Respite Move ===
+Taking care of equipment?
+
+== Dexter Actuator ==
+
+=== Action Move ===
+?
+
+=== Respite Move ===
+Training or games.
+
+=== Action Move ===
+
+=== Respite Move ===
+How you hang out with your pals.
+
+== Value Core ==
+
+=== Action Move ===
+Like the Champions Presence Attack. Some attempt to sway your opposition.
+
+=== Respite Move ===
+How you hang out with your pals.
+
+== Locomotion ==
+
+=== Action Move ===
+
+=== Respite Move ===
+Travel and big journeys.
