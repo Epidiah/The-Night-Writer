@@ -1,13 +1,40 @@
 = How We Roll =
 
-We're going to use d4, d6, d8, d10, and d12.
 
-You will have a target number to reach, usually between 1 and 20. You do not have to reach it with a single roll. Everytime you roll, you build a toiling total. When your toiling total _exceeds_ your target number, you succeed. The number you succeed by might be relavent.
+== Wolfspell Option ==
 
-|     Roll      | Result                                              |
-|:-------------:|-----------------------------------------------------|
-|       1       | Setback! ±1 die size next time you roll this die.   |
-|   2 until…    | Add result to toiling total.                        |
-| …maximum roll | Automatically get exactly what you need to succeed. |
+Roll 2d6, subtract the lower roll from the highter one.
+    * Result from 0 to 5.
+
+000000
+11111111
+222222
+3333
+44
+5
+
+== Drop Map ==
+
+Map made from interchangeable parts. Drop dice on them, where they land tells you { something }. The face value of the dice could tell you how well you did, how dangerous it was, ect.
+
+== Trick Taking Cards ==
+
+Might be difficult to tune correctly, but boy howdy, would be interesting.
+
+== Cards Again ==
+
+Each suit is based on an interchangeable part. You're dealt, say, 7 cards. You can play one of each suit, or all of the same suit. The cards have values (1, 2, or 3). If you play all of the same suit, add them together. If you play each of different suits, multiply them.
+
+Could involve deck building.
+
+%% We're going to use d4, d6, d8, d10, and d12.
+
+%% You will have a target number to reach, usually between 1 and 20. You do not have to reach it with a single roll. Everytime you roll, you build a toiling total. When your toiling total _exceeds_ your target number, you succeed. The number you succeed by might be relavent.
+
+%% |     Roll      | Result                                              |
+%% |:-------------:|-----------------------------------------------------|
+%% |       1       | Setback! ±1 die size next time you roll this die.   |
+%% |   2 until…    | Add result to toiling total.                        |
+%% | …maximum roll | Automatically get exactly what you need to succeed. |
 
 
