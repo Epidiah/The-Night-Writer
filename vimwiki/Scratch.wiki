@@ -87,6 +87,7 @@ Current distinction:
     - Action Moves are round by round play.
         - Less likely than losing a interchangeable as above, but can be blown apart.
     - Respite Moves are broad strokes, montage style play.
+        - Sometimes, you just want to roll to smell the flowers.
 
 
 == Sensor Unit ==
@@ -136,3 +137,26 @@ How you hang out with your pals.
 Travel and big journeys.
 
 = [[Dice]] Rolling? =
+
+= Drop Table Ideas =
+
+== Where do the dice land? ==
+
+* On an interchangeable:
+    * Fully on it --> You must solely use this interchangeable
+    * Partially on it --> You may use this interchangeable
+* On more than one interchangeable --> Choose one interchangeable to use
+* Off an interchangeable, but on its plate --> Something bad happens, but you can assume all dice on this interchangeable
+
+Physical size of the dice will matter.
+
+== How Many Dice Are You Using ==
+
+Let's say you roll one of each: d4, d6, d8, d10, d12
+
+After rolling, pick the dice to use following the Where do the dice land? rules.
+
+== How to Read the Dice? ==
+
+Choose one interchangeable with dice on it and take all valid dice for it.
+
