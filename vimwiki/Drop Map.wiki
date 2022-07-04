@@ -1,0 +1,23 @@
+= Drop Mapping =
+
+Sections:
+    
+        Head
+Left            Right
+Arm     Torso     Arm
+
+     Locomotors
+     
+     
+Physical Box:
+
+Walls to prevent dice from rolling out.
+Clear delineation of the various sections.
+It should be clear where the actual interchangeable part is in its section.
+The physical size of the dice will matter. Or will it?
+
+== What I Want Out of My Design ==
+
+1. To put butts in seats.
+2. Inspire interesting contributions.
+3. 

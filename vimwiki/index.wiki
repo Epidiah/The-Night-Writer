@@ -24,6 +24,7 @@
         - [[#Intergalaxian Body Composition#Lower Body|Lower Body]]
     - [[#Death and Dying|Death and Dying]]
     - [[#Off the Cuff Ideas|Off the Cuff Ideas]]
+    - [[#[[Overview of Gameplay]]|[[Overview of Gameplay]]]]
 
 = History of the Intergalaxians = 
     - *Late 70s* launch of the Intergalaxian toy line
@@ -76,3 +77,5 @@ Intergalaxians cannot die. But they can be blown apart, and their interchangeabl
 
 - A d6 roll to determine which interchangeable part solves your problem.
 - [[Scratch]]
+
+= [[Overview of Gameplay]] =

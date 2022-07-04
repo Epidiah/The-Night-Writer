@@ -13,7 +13,7 @@ Roll 2d6, subtract the lower roll from the highter one.
 44
 5
 
-== Drop Map ==
+== [[Drop Map]] ==
 
 Map made from interchangeable parts. Drop dice on them, where they land tells you { something }. The face value of the dice could tell you how well you did, how dangerous it was, ect.
 
